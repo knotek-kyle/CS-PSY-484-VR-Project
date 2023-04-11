@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/FearHeight.unity
+    guid: 1ce378ad6242d1345913f2a28afea673
+  - enabled: 1
     path: Assets/Scenes/MuseumHub.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
