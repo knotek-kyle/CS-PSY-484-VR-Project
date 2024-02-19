@@ -6,11 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MuseumHub.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
     path: Assets/Scenes/FearHeight.unity
     guid: 1ce378ad6242d1345913f2a28afea673
   - enabled: 1
-    path: Assets/Scenes/MuseumHub.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/FearOcean.unity
+    guid: 77ee1efd0c7ceee48b6f5341d1b9ff5b
+  - enabled: 1
+    path: Assets/Scenes/FearSpider.unity
+    guid: 6a376569a1c54c8429eea22b15112c94
+  - enabled: 1
+    path: Assets/Scenes/FearClaus.unity
+    guid: 7156d6426989f094d904bacbe50e929c
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: a3f115dfa9de24f45b89eaaeea7022f5
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}
